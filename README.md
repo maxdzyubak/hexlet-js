@@ -1,2 +1,2 @@
 # hexlet-js
-Learning js at hexlet.io
+Мой первый проект на Хекслете
